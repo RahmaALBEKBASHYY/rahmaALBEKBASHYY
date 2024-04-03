@@ -1,6 +1,6 @@
 # Rahma ALBEKBASHY
 
-Pour la version française de ce CV, veuillez consulter la section suivante. 🇫🇷
+La traduction française est ci-dessous. 👇
 
 🎓 Master 2 student in Data Engineering at EFREI Paris  
 🔍 Searching for a permanent job (CDI) starting September 2024  
@@ -85,7 +85,7 @@ Pour la version française de ce CV, veuillez consulter la section suivante. �
 
 ---
 
-🇫🇷 **Version Française**
+ **Version Française**
 
 ---
 
