@@ -1,5 +1,6 @@
 # Rahma ALBEKBASHY
 Pour une version française de ce CV, veuillez consulter la section suivante. 🇫🇷
+
 🎓 Master 2 student in Data Engineering at EFREI Paris  
 🔍 Searching for a permanent job (CDI) starting September 2024  
 📧 Rahmaalbekbashy@gmail.com  
